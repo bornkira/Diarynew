@@ -1,0 +1,61 @@
+{
+  "name": "diary",
+  "padlock": "J6B9ssiTpJ5l0o4fYSOk9w==!Op+1/sWL8bUScPLXmMLzE4CwJAy3A8musuz+vZvYMummeqe2egVUQ1CLjP4+XrAc",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "6d28e4fb-9074-4a0b-a5b8-9a89f632cc60",
+      "subscriptionId": "d61812b0-b83c-4571-8006-1f96fa908ee1",
+      "resourceGroup": "Group_1",
+      "serviceName": "diary",
+      "type": "abs",
+      "name": "diary",
+      "id": "1"
+    },
+    {
+      "connectionString": "xsrGWYYMww1z8PGlSDPXeQ==!ws4MElcWMuU8cZ/zvI5vBhMMoBY/pa04oWaiHX8UMyZJ0/qxjM5mG0sjQ7toQK8wS9Eda/lCfiA+MnRfnrbFbhcf5SnJV4l3xyzvRjN8ML56XBiKwZghKPrUfD6gfmv9r8dzVeifYDw8jpwBzq0gtfcPDJbyu3lc8Vb8JzkztfxGGmfHvHC0PT3kVSC4a09P3KSizVUEH5FCNQHCOwThbA==",
+      "tenantId": "6d28e4fb-9074-4a0b-a5b8-9a89f632cc60",
+      "subscriptionId": "d61812b0-b83c-4571-8006-1f96fa908ee1",
+      "resourceGroup": "Group_1",
+      "serviceName": "diary83b3",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "9da901da-36a0-4d96-9cfd-68bfd2c440fc",
+      "appPassword": "EwPgH1/mMWdVUAlInrexlA==!So96hYZZAoCHHCfmjll0UAKmmg9JRDn6oy5WpDoqLYc=",
+      "endpoint": "https://diary-83b3.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "fEleHFgEDbfYXmLzlrjgkA==!8GpwXXGJcVPxMsZTDn0v82kOQGdfcLOYg7Nn6qN0cq/CC9qjc+/GM9vRlZUOnC8u",
+      "applicationId": "1f179260-1d66-404d-9ead-f46f0f91df2e",
+      "apiKeys": {},
+      "tenantId": "6d28e4fb-9074-4a0b-a5b8-9a89f632cc60",
+      "subscriptionId": "d61812b0-b83c-4571-8006-1f96fa908ee1",
+      "resourceGroup": "Group_1",
+      "serviceName": "diaryc54pgy",
+      "type": "appInsights",
+      "id": "5"
+    },
+    {
+      "appId": "09de2910-679c-46de-96f1-4cb368bf1222",
+      "authoringKey": "c0JV1t40qS1PYBOyGn4WaA==!ZeT/1tWk95icK4eO4P6lFdbh7ufWa4TzXYMw0jd7tpFUVY2imiDkJw3l6/m9vTNl",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "6"
+    }
+  ]
+}
